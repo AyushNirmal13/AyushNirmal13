@@ -95,7 +95,7 @@
 ###
 
 <div align="center">
-  <img height="220" width="124" src="[https://i.imgflip.com/65efzo.gif](https://media1.tenor.com/m/JCKmEJa5ZjwAAAAd/sung-jin-woo-solo-leveling.gif)"  />
+  <img height="220" width="124" src="https://media1.tenor.com/m/JCKmEJa5ZjwAAAAd/sung-jin-woo-solo-leveling.gif"  />
 </div>
 
 ###
